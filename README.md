@@ -1,4 +1,4 @@
-# Restaurant-Analytics:Ratings Prediction Recommendations and Cuisine Classification
+# Restaurant-Analytics
 
 
 # 1. Predict Restaurant Ratings
